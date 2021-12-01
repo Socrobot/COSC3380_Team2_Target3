@@ -1,4 +1,4 @@
-Data is being sorted on a ElephantSQL server like asked for on teams and at the start of the assignment.
+Data is being sorted on a ElephantSQL server like asked for on teams and at the start of the assignment.  As well as in the TA instructions.
 
 How to connect:
 
